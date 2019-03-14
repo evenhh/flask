@@ -7,7 +7,7 @@ intentions. And before you ask: It's BSD licensed!
 
 Flask is Fun
 ````````````
-
+a
 Save in a hello.py:
 
 .. code:: python
